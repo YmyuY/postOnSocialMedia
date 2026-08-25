@@ -133,7 +133,7 @@ body {
   gap: 5px;
   font-size: 13px;
   font-weight: 600;
-  color: #ffffff;
+  color: #000000;
   cursor: pointer;
   background: none;
   border: none;
@@ -153,15 +153,15 @@ body {
 .post-details {
   padding: 0 16px 12px 16px;
   font-size: 13px;
-  color: #e0e5ec;
+  color: #000000;
 }
 
 .likes {
-  color: #e8ebef;
+  color: #000000;
 }
 
 .likes strong {
-  color: #e9eef6;
+  color: #000000;
 }
 
 /* Barra de Navegação Inferior */
@@ -175,7 +175,7 @@ body {
 }
 
 .nav-item {
-  color: #e5e8ee;
+  color: #000000;
   cursor: pointer;
 }
 
